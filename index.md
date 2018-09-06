@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+# Joelle Messenger's First CS193 lab
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- I enjoy being around other students with the same interests and similar passions as I have
+- I like learning new things and understanding what is new and out in the tech world
+- dogs are pretty cool
+- cats too but im allergic so that kind of sucks
+- I ran out of things to say
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
